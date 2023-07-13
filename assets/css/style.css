@@ -120,8 +120,7 @@ header .navbar ul li a:hover {
     position: fixed;
     top: 6.5rem;
     right: -120%;
-    width: 75%;
-    height: 100%;
+    width: 100%;
     text-align: left;
     align-items: flex-start;
     background-color: #0e0f31;
